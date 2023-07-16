@@ -1,3 +1,4 @@
+# Lista de exercícios básicos de array em Java
 1 – Crie um programa que solicite ao usuário quantos números ele deseja digitar. Depois solicite ao usuário que digite todos os número, e finalmente exiba todos os números que o usuário digitou na ordem inversa ao digitado
 
 2 - Crie um programa que solicite ao usuário a quantidade de alunos de uma turma. Em seguida, crie um array para armazenar as notas dos alunos. O programa lê as notas de cada aluno e as armazena no array. Em seguida, calcule a média das notas, somando todas as notas do array e dividindo pelo número total de alunos. Por fim, exiba a média das notas da turma.
